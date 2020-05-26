@@ -3,4 +3,7 @@ pizza
 burger
 pasta
 
+Beans
+French Fries
+
 Thank You :)
